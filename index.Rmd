@@ -1,5 +1,5 @@
 ---
-title: "JairTest"
+title: "Jair's Site"
 output: html_document
 ---
 
@@ -17,11 +17,11 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **CRIM 250**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+This is my website for submitting assignments for CRIM 250, as well as to get acquainted with R, RStudio, RMarkdown, and GitHub.
 
-## How to use
+## How this website was made
 
 1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
 
